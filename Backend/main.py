@@ -24,6 +24,10 @@ client = openai.OpenAI(api_key=openai_api_key)
 class PlanRequest(BaseModel):
     user_input: str
 
+    @app.get("/")
+def read_root():
+    return {"message": "Manasik API is running."}
+
 @app.post("/generate_plan")
 def generate_plan(req: PlanRequest):
     prompt = f"""
