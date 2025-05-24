@@ -24,7 +24,7 @@ client = openai.OpenAI(api_key=openai_api_key)
 class PlanRequest(BaseModel):
     user_input: str
 
-    @app.get("/")
+@app.get("/")
 def read_root():
     return {"message": "Manasik API is running."}
 
