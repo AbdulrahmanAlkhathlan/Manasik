@@ -129,8 +129,9 @@ const Planner = () => {
 
 
   const askOpenAI = async (input) => {
+  const API_URL = import.meta.env.VITE_APP_API_URL;
     try {
-      const res = await fetch("http://localhost:8000/generate_plan", {
+      const res = await fetch(`${API_URL}/generate_plan`, {
 
         method: "POST",
         headers: { "Content-Type": "application/json" },
