@@ -11,7 +11,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "https://manasik.onrender.com"],
+    allow_origins=["http://localhost:5173", "https://manasik.onrender.com","https://umrah-planner-a2ec0.web.app",],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
