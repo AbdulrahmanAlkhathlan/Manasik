@@ -1,6 +1,6 @@
 import makkahImg from "../../assets/Makkah.jpg";
 import saeeImg from "../../assets/sa'ee.jpg";
-import tawafImg from "../../assets/tawaf.jpg";
+import tawafImg from "../../assets/Tawaf.jpg";
 import trimImg from "../../assets/trim.jpg";
 
 export const umrahStepsData = {
