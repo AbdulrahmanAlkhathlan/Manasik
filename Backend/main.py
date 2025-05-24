@@ -17,7 +17,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-openai_api_key = os.getenv("OPENAI_API_KEY")
+openai_api_key = os.getenv("VITE_OPENAI_API_KEY;")
 
 client = openai.OpenAI(api_key=openai_api_key)
 
@@ -42,9 +42,9 @@ User input:
                 {"role": "system", "content": "You are a helpful Umrah planner."},
                 {"role": "user", "content": prompt}
             ],
-            temperature=0.8,
-            top_p=0.9,
-            max_tokens=1000
+            temperature=0.6,
+            top_p=0.7,
+            max_tokens=700
         )
         result = response.choices[0].message.content
         return {"response": result}
