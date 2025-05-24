@@ -50,7 +50,6 @@ const YourPlan = ({
 
         if (user) {
           const cleanedPlan = removeUndefined(newPlan);
-          console.log("Saving cleaned plan to Firestore:", cleanedPlan);
           await setDoc(doc(db, "plans", user.uid), cleanedPlan);
         }
 
