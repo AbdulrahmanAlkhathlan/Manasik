@@ -11,13 +11,13 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:3000"],
+    allow_origins=["http://localhost:5173", "https://manasik.onrender.com"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-openai_api_key = os.getenv("VITE_OPENAI_API_KEY;")
+openai_api_key = os.getenv("VITE_OPENAI_API_KEY")
 
 client = openai.OpenAI(api_key=openai_api_key)
 
