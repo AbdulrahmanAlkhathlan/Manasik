@@ -24,7 +24,6 @@
 - 🔐 User Authentication (Firebase Auth)  
 - 📋 Visual guide to performing Umrah  
 - 📱 Fully responsive layout  
-- 🌍 Multilingual support (coming soon)
 
 ---
 
@@ -81,3 +80,19 @@ Deployment can be done using **Firebase Functions**, **Render**, or any modern s
 ```bash
 git clone https://github.com/your-username/manasik-planner.git
 cd manasik-planner
+
+### ⚙️ Installation & Run
+Frontend
+bash
+Copy
+Edit
+cd Frontend
+npm install
+npm run dev
+Backend
+bash
+Copy
+Edit
+cd Backend
+pip install -r requirements.txt
+uvicorn main:app --reload
