@@ -88,16 +88,13 @@ cd Manasik
 
 ### ⚙️ Installation & Run
 
-###Frontend
-
+### Frontend
 ```bash
 cd Frontend
 npm install
 npm run dev
 ```
-
-###Backend
-
+### Backend
 ```bash
 cd Backend
 pip install -r requirements.txt
