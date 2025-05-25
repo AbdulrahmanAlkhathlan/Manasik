@@ -1,21 +1,42 @@
-🕋 Manasik Planner
-Manasik Planner is a modern web application that helps Muslims plan their Umrah journey with ease. It uses AI to generate personalized itineraries based on your travel dates, preferences, and budget — with no need to select predefined tiers. Simply input your information and receive a customized plan.
+# 🕋 Manasik Planner
 
-🌐 Live Demo
-👉 www.manasikplanner.com
+**Manasik Planner** is a modern web application that helps Muslims plan their Umrah journey with ease. It uses AI to generate personalized itineraries based on your travel dates, preferences, and budget — no need to select predefined tiers.
 
-✨ Features
-📆 AI-generated Umrah itinerary (customized by date, preference, and budget)
+### 🌐 Live Demo  
+👉 [www.manasikplanner.com](https://www.manasikplanner.com)
 
-🏨 Hotel and flight suggestions dynamically tailored to your budget
+---
 
-⏰ Activity time preferences (Morning, Afternoon, Evening, Night)
+## ✨ Features
 
-🔐 User Authentication with Firebase Auth
+- 📆 AI-generated Umrah itinerary
+- 🏨 Hotel and flight suggestions tailored to your budget
+- ⏰ Activity time preferences (Morning, Afternoon, Evening, Night)
+- 🔐 User Authentication (Firebase Auth)
+- 📋 Visual guide to performing Umrah
+- 📱 Fully responsive layout
+- 🌍 Multilingual support (coming soon)
 
-📋 Visual guide to performing Umrah
+---
 
-📱 Responsive design for mobile and desktop
+## ⚙️ Tech Stack
 
-🌍 Multilingual support (coming soon)
+| Frontend        | Backend     | Hosting & Infra       | APIs & Libraries         |
+|----------------|-------------|------------------------|---------------------------|
+| React           | FastAPI     | Firebase Hosting       | OpenAI API                |
+| React Router    | Uvicorn     | Cloudflare DNS + SSL   | React Icons               |
+| Firebase Auth   | Python      | GitHub Actions (CI/CD) | Tailwind CSS (optional)  |
+
+---
+
+## 🧠 Backend & AI
+
+- **FastAPI (Python)** handles the logic and API
+- **OpenAI API** generates natural language-based plans
+- **Uvicorn** runs the FastAPI server
+- Firebase Functions or Render can be used for deployment
+
+---
+
+## 📁 Folder Structure
 
