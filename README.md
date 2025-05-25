@@ -1,6 +1,6 @@
 <p align="left">
-  <img src="Frontend/assets/ManasikLogo.png" alt="Manasik Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
-  <span><strong><font size="30">Manasik Planner</font></strong></span>
+<img src="Frontend/assets/ManasikLogo.png" alt="Manasik Logo" width="40" style="vertical-align: middle;"/>  
+# Manasik Planner
 </p>
 
 **Manasik Planner** is a modern web application that helps Muslims plan their Umrah journey with ease. It uses AI to generate personalized itineraries based on your travel dates, preferences, and budget — no need to select predefined tiers.
