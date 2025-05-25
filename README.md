@@ -1,4 +1,4 @@
-# ![Uploading ManasikLogo.png…]()
+# ![ManasikLogo](https://github.com/user-attachments/assets/22b07843-0402-426e-8729-afaffe5abfd1)
  Manasik Planner
 
 **Manasik Planner** is a modern web application that helps Muslims plan their Umrah journey with ease. It uses AI to generate personalized itineraries based on your travel dates, preferences, and budget — no need to select predefined tiers.
