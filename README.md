@@ -131,8 +131,6 @@ Set up your Firebase credentials and configuration using the Firebase Console.
 
 ---
 
-##🧾 License
+## 🧾 License
 
 This project is licensed under the MIT License — you’re free to use, modify, and distribute this project with attribution.
-
-For full license text, see the LICENSE file.
