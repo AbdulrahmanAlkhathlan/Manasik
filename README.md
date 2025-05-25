@@ -101,6 +101,8 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
+---
+
 ## 🔐 Environment Variables
 
 Create a .env file:
@@ -116,6 +118,8 @@ VITE_FIREBASE_APP_ID=your_firebase_app_id
 ```
 Set up your Firebase credentials and configuration using the Firebase Console.
 
+---
+
 ## 🛣️ Roadmap
 
 - 🌐 Add multilingual support
@@ -124,3 +128,11 @@ Set up your Firebase credentials and configuration using the Firebase Console.
 - 📊 Expense estimator and tracker
 - 📂 Plan export as PDF or shareable link
 - 🧾 Pilgrim checklist
+
+---
+
+##🧾 License
+
+This project is licensed under the MIT License — you’re free to use, modify, and distribute this project with attribution.
+
+For full license text, see the LICENSE file.
