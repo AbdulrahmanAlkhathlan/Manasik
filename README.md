@@ -46,8 +46,12 @@ _Add your UI screenshots here_
 - **FastAPI** (Python)
 - **Uvicorn**
 
+### Database
+- **Cloud Firestore** (used to persist user-generated plans)
+
 ### APIs & AI
 - **OpenAI API** (for natural language itinerary generation)
+- **Firebase API** (for auth and storage)
 
 ### Hosting & DevOps
 - **Firebase Hosting**
