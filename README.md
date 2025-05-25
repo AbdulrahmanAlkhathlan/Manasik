@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/AbdulrahmanAlkhathlan/Manasik/Frontend/assets/ManasikLogo.png" alt="Manasik Logo" width="40" style="vertical-align: middle;"/>
+  <img src="https://github.com/AbdulrahmanAlkhathlan/Manasik/Frontend/assets/ManasikLogo.png" alt="Manasik Logo" width="40" style="vertical-align: middle;"/>
   <span style="font-size:2rem; font-weight: bold;"> Manasik Planner</span>
 </p>
 
