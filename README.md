@@ -100,3 +100,27 @@ cd Backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
+
+## 🔐 Environment Variables
+
+Create a .env file:
+
+```env
+VITE_OPENAI_API_KEY=your_openai_key
+VITE_FIREBASE_API_KEY=your_firebase_api_key
+VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=your_project_id
+VITE_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
+VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
+VITE_FIREBASE_APP_ID=your_firebase_app_id
+```
+Set up your Firebase credentials and configuration using the Firebase Console.
+
+## 🛣️ Roadmap
+
+- 🌐 Add multilingual support
+- 📱 PWA (Progressive Web App) support
+- 📍 Interactive map for Makkah & Madinah
+- 📊 Expense estimator and tracker
+- 📂 Plan export as PDF or shareable link
+- 🧾 Pilgrim checklist
