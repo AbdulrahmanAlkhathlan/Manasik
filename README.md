@@ -1,4 +1,7 @@
-# ![ManasikLogo](https://github.com/user-attachments/assets/22b07843-0402-426e-8729-afaffe5abfd1) Manasik Planner
+<p align="left">
+  <img src="https://raw.githubusercontent.com/AbdulrahmanAlkhathlan/Manasik/Frontend/assets/ManasikLogo.png" alt="Manasik Logo" width="40" style="vertical-align: middle;"/>
+  <span style="font-size:2rem; font-weight: bold;"> Manasik Planner</span>
+</p>
 
 **Manasik Planner** is a modern web application that helps Muslims plan their Umrah journey with ease. It uses AI to generate personalized itineraries based on your travel dates, preferences, and budget — no need to select predefined tiers.
 
@@ -9,12 +12,12 @@
 
 ## ✨ Features
 
-- 📆 AI-generated Umrah itinerary
-- 🏨 Hotel and flight suggestions tailored to your budget
-- ⏰ Activity time preferences (Morning, Afternoon, Evening, Night)
-- 🔐 User Authentication (Firebase Auth)
-- 📋 Visual guide to performing Umrah
-- 📱 Fully responsive layout
+- 📆 AI-generated Umrah itinerary  
+- 🏨 Hotel and flight suggestions tailored to your budget  
+- ⏰ Activity time preferences (Morning, Afternoon, Evening, Night)  
+- 🔐 User Authentication (Firebase Auth)  
+- 📋 Visual guide to performing Umrah  
+- 📱 Fully responsive layout  
 - 🌍 Multilingual support (coming soon)
 
 ---
@@ -31,12 +34,11 @@
 
 ## 🧠 Backend & AI
 
-- **FastAPI (Python)** handles the logic and API
-- **OpenAI API** generates natural language-based plans
-- **Uvicorn** runs the FastAPI server
+- **FastAPI (Python)** handles the logic and API  
+- **OpenAI API** generates natural language-based plans  
+- **Uvicorn** runs the FastAPI server  
 - Firebase Functions or Render can be used for deployment
 
 ---
 
 ## 📁 Folder Structure
-
