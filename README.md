@@ -82,21 +82,21 @@ Deployment can be done using **Firebase Functions**, **Render**, or any modern s
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/manasik-planner.git
-cd manasik-planner
+git clone https://github.com/AbdulrahmanAlkhathlan/Manasik.git
+cd Manasik
+```
 
 ### ⚙️ Installation & Run
-Frontend
-bash
-Copy
-Edit
+
+###Frontend
+```bash
 cd Frontend
 npm install
 npm run dev
-Backend
-bash
-Copy
-Edit
+```
+###Backend
+```bash
 cd Backend
 pip install -r requirements.txt
 uvicorn main:app --reload
+```
