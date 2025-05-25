@@ -120,7 +120,7 @@ Set up your Firebase credentials and configuration using the Firebase Console.
 
 - 🌐 Add multilingual support
 - 📱 PWA (Progressive Web App) support
-- 📍 Interactive map for Makkah & Madinah
+- 📍 Interactive map for Makkah
 - 📊 Expense estimator and tracker
 - 📂 Plan export as PDF or shareable link
 - 🧾 Pilgrim checklist
