@@ -129,9 +129,8 @@ const Planner = () => {
 
 
   const askOpenAI = async (input) => {
-  const API_URL = import.meta.env.VITE_APP_API_URL;
     try {
-      const res = await fetch(`${API_URL}/generate_plan`, {
+      const res = await fetch(`https://manasik.onrender.com/generate_plan`, {
 
         method: "POST",
         headers: { "Content-Type": "application/json" },
