@@ -3,6 +3,7 @@ import { NavLink, useNavigate } from "react-router-dom";
 import { useAuth } from "./contexts/AuthContext";
 import { FiLogOut } from "react-icons/fi";
 import "./css/Header.css";
+import ManasikLogo from "../assets/ManasikLogo.png"
 
 const Header = () => {
   const { logout } = useAuth();
@@ -21,7 +22,10 @@ const Header = () => {
 
   return (
     <header className="header">
-      <div className="logo-title">Manasik</div>
+      <div className="logo-title">
+        <img src={ManasikLogo} alt="Manasik Logo" className="logo-img" />
+        <span>Manasik</span>
+      </div>
 
       <nav className="nav">
         <NavLink to="/home" className="nav-link">
