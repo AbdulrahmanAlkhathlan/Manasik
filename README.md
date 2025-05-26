@@ -49,24 +49,24 @@ _Add your UI screenshots here_
 
 ## ⚙️ Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 - **React** with **React Router**
 - **Firebase Authentication**
 - **React Icons**
 - **Vite** (for fast bundling)
 
-### 🧠 Backend & AI
+### Backend & AI
 - **FastAPI** (Python API framework)
 - **Uvicorn** (ASGI server for FastAPI)
 - **Pydantic** (data validation)
 - **OpenAI API** (for itinerary generation)
 - **python-dotenv** (environment configuration)
 
-### 🔥 Database & APIs
+### Database & APIs
 - **Firestore** (NoSQL DB for plan storage)
 - **Firebase SDKs** (Auth, Firestore, Hosting)
 
-### 🚀 DevOps & Hosting
+### DevOps & Hosting
 - **Firebase Hosting**
 - **Cloudflare** (DNS + SSL)
 - **GitHub Actions** (CI/CD pipeline)
