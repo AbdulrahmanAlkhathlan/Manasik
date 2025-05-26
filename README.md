@@ -36,7 +36,7 @@
 - 🏨 Hotel and flight suggestions tailored to your budget  
 - ⏰ Activity time preferences (Morning, Afternoon, Evening, Night)  
 - 🔐 User Authentication (Firebase Auth)  
-- 📋 Visual guide to performing Umrah  
+- 📋 Step-by-step Umrah guide  
 - 📱 Fully responsive layout  
 
 ---
@@ -49,27 +49,27 @@ _Add your UI screenshots here_
 
 ## ⚙️ Tech Stack
 
-### Frontend
-- **React**
-- **React Router**
+### 🖥️ Frontend
+- **React** with **React Router**
 - **Firebase Authentication**
 - **React Icons**
+- **Vite** (for fast bundling)
 
-### Backend
-- **FastAPI** (Python)
-- **Uvicorn**
+### 🧠 Backend & AI
+- **FastAPI** (Python API framework)
+- **Uvicorn** (ASGI server for FastAPI)
+- **Pydantic** (data validation)
+- **OpenAI API** (for itinerary generation)
+- **python-dotenv** (environment configuration)
 
-### Database
-- **Cloud Firestore** (used to persist user-generated plans)
+### 🔥 Database & APIs
+- **Firestore** (NoSQL DB for plan storage)
+- **Firebase SDKs** (Auth, Firestore, Hosting)
 
-### APIs & AI
-- **OpenAI API** (used for generating contextual day-by-day itineraries)
-- **Firebase API** (for auth and storage)
-
-### Hosting & DevOps
+### 🚀 DevOps & Hosting
 - **Firebase Hosting**
-- **Cloudflare DNS + SSL**
-- **GitHub Actions** (CI/CD)
+- **Cloudflare** (DNS + SSL)
+- **GitHub Actions** (CI/CD pipeline)
 
 ---
 
