@@ -141,12 +141,13 @@ Set up your Firebase credentials and configuration using the Firebase Console.
 
 ## 🛣️ Roadmap
 
-- 🌐 Add multilingual (Arabic, English) support
-- 📱 PWA (Progressive Web App) support
-- 📍 Interactive map for Makkah
-- 📊 Expense estimator and tracker
-- 📂 Plan export as PDF or shareable link
-- 🧾 Pilgrim checklist
+- 🌐 Multilingual support (Arabic & English)
+- 📱 Progressive Web App (PWA) support for offline access
+- 📍 Interactive map of Makkah with ritual landmarks
+- 📊 Budget planner: Expense estimator & tracker
+- 📂 Export plan as PDF or shareable public link
+- 🧾 Smart pilgrim checklist (auto-generates based on your itinerary)
+- 💬 AI-powered Q&A assistant for common Umrah questions or rituals
 
 ---
 
