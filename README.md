@@ -5,6 +5,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/AbdulrahmanAlkhathlan/Manasik/blob/main/LICENSE)
 [![Built with React](https://img.shields.io/badge/built%20with-React-blue)](https://reactjs.org/)
 [![OpenAI API](https://img.shields.io/badge/AI-OpenAI-green)](https://platform.openai.com/)
+[![Last Commit](https://img.shields.io/github/last-commit/AbdulrahmanAlkhathlan/Manasik)](https://github.com/AbdulrahmanAlkhathlan/Manasik/commits/main)
 
 **Manasik** is a modern web application that helps Muslims plan their Umrah journey with ease. It uses AI to generate personalized itineraries based on your travel dates, origin, transportation method, budget, and other preferences.
 
