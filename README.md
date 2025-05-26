@@ -2,7 +2,7 @@
 
 # Manasik
 
-**Manasik** is a modern web application that helps Muslims plan their Umrah journey with ease. It uses AI to generate personalized itineraries based on your travel dates, origin, transportation method, budget, and other preferences — no need to select predefined tiers.
+**Manasik** is a modern web application that helps Muslims plan their Umrah journey with ease. It uses AI to generate personalized itineraries based on your travel dates, origin, transportation method, budget, and other preferences.
 
 ### 🌐 Live App  
 👉 [www.manasikplanner.com](https://www.manasikplanner.com)
@@ -26,7 +26,7 @@
 
 ## 📝 Description
 
-**Manasik** simplifies Umrah trip planning with a smart, AI-driven assistant. Whether you're traveling alone or with family, it builds a complete itinerary that includes spiritual rituals, hotel bookings, and more — all personalized to your needs.
+**Manasik** simplifies Umrah planning with an intelligent, AI-powered assistant. Whether you're traveling solo or with family, it generates a personalized itinerary that includes spiritual rituals, accommodation, transportation, historical sites, dining options, and more — all tailored to your preferences.
 
 ---
 
