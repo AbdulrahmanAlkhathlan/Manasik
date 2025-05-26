@@ -13,7 +13,7 @@
 ## 📚 Table of Contents
 - [📝 Description](#-description)
 - [✨ Features](#-features)
-- [📸 Screenshots](#-screenshots)
+- [🖼 UI Screenshots](#-ui-screenshots)
 - [⚙️ Tech Stack](#️-tech-stack)
 - [🧠 Backend & AI](#-backend--ai)
 - [🚀 Getting Started](#-getting-started)
@@ -44,7 +44,7 @@
 
 ---
 
-## 📸 UI Screenshots
+## 🖼 UI Screenshots
 
 ### 🔐 Authentication Page
 ![Screenshot 2025-05-26 025501](https://github.com/user-attachments/assets/391b9dc4-a3d0-4412-a933-d0dc7fef9325)
