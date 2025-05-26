@@ -53,7 +53,7 @@
 ![Screenshot 2025-05-26 025517](https://github.com/user-attachments/assets/7a5b0c9e-eb21-47fb-8d90-2c37cc688a3c)
 
 ### 🗓 Plan Page
-- Step 1: Travel Dates
+- **Step 1: Travel Dates**
 ![Screenshot 2025-05-26 025536](https://github.com/user-attachments/assets/2d38418f-2f1c-4413-aafe-cf744891220c)
 
 - Step 2: Origin
