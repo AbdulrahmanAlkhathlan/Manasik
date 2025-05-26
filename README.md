@@ -75,11 +75,10 @@ _Add your UI screenshots here_
 
 ## 🧠 Backend & AI
 
-The backend is powered by **FastAPI**, a modern Python web framework. It handles the form inputs, AI logic, and route management. The actual itinerary generation uses the **OpenAI API** to build a contextual, day-by-day Umrah plan.
-
-The app runs on **Uvicorn**, an asynchronous server for FastAPI.
-
-Deployment can be done using **Firebase Functions**, **Render**, or any modern serverless platform.
+The backend is built with **FastAPI**, a modern, high-performance Python web framework. It manages user input, AI logic, and route handling.
+Personalized Umrah itineraries are generated using the **OpenAI API**, which crafts contextual, day-by-day plans based on user preferences like travel dates, budget, and activity times.
+The API runs on **Uvicorn**, an asynchronous server optimized for FastAPI.
+The backend can be deployed via **Firebase Cloud Functions**, **Render**, or any modern serverless or container-based platform.
 
 ---
 
