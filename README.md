@@ -2,6 +2,10 @@
 
 # Manasik
 
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Built with React](https://img.shields.io/badge/built%20with-React-blue)
+![OpenAI API](https://img.shields.io/badge/AI-OpenAI-green)
+
 **Manasik** is a modern web application that helps Muslims plan their Umrah journey with ease. It uses AI to generate personalized itineraries based on your travel dates, origin, transportation method, budget, and other preferences.
 
 ### 🌐 Live App  
@@ -20,6 +24,7 @@
 - [⚙️ Installation & Run](#️-installation--run)
 - [🔐 Environment Variables](#-environment-variables)
 - [🛣️ Roadmap](#️-roadmap)
+- [🤝 Contributing](#️-contributing)
 - [🧾 License](#-license)
 
 ---
@@ -108,7 +113,7 @@
 The backend is built with **FastAPI**, a modern, high-performance Python web framework. It manages user input, AI logic, and route handling.
 Personalized Umrah itineraries are generated using the **OpenAI API**, which crafts contextual, day-by-day plans based on user preferences like travel dates, budget, and activity times.
 
-The API runs on **Uvicorn**, an asynchronous server optimized for FastAPI.
+It is served by **Uvicorn**, a lightning-fast ASGI server ideal for asynchronous FastAPI applications.
 
 The backend can be deployed via **Firebase Cloud Functions**, **Render**, or any modern serverless or container-based platform.
 
@@ -174,6 +179,14 @@ Set up your Firebase credentials and configuration using the Firebase Console.
 - 📂 Export plan as PDF or shareable public link
 - 🧾 Smart pilgrim checklist (auto-generates based on your itinerary)
 - 💬 AI-powered Q&A assistant for common Umrah questions or rituals
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+Don't forget to ⭐️ this repo if you find it useful!
 
 ---
 
