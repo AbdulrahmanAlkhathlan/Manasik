@@ -11,7 +11,6 @@
 ### 🌐 Live App  
 👉 [www.manasikplanner.com](https://www.manasikplanner.com)
 
-
 ---
 
 ## 📚 Table of Contents
@@ -134,6 +133,7 @@ The backend can be deployed via **Firebase Cloud Functions**, **Render**, or any
 git clone https://github.com/AbdulrahmanAlkhathlan/Manasik.git
 cd Manasik
 ```
+
 ---
 
 ## ⚙️ Installation & Run
