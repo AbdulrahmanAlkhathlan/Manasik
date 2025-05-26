@@ -98,6 +98,7 @@ Deployment can be done using **Firebase Functions**, **Render**, or any modern s
 git clone https://github.com/AbdulrahmanAlkhathlan/Manasik.git
 cd Manasik
 ```
+---
 
 ## ⚙️ Installation & Run
 
