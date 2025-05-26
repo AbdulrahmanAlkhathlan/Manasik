@@ -52,6 +52,28 @@
 ### 🏠 Home Page
 ![Screenshot 2025-05-26 025517](https://github.com/user-attachments/assets/7a5b0c9e-eb21-47fb-8d90-2c37cc688a3c)
 
+### 🗓 Plan Page
+- Step 1: Travel Dates
+![Screenshot 2025-05-26 025536](https://github.com/user-attachments/assets/2d38418f-2f1c-4413-aafe-cf744891220c)
+
+- Step 2: Origin
+![Screenshot 2025-05-26 025545](https://github.com/user-attachments/assets/30201e42-b5dc-45cf-9892-74459eb94ffc)
+
+- Step 3: Transportation & Budget
+![Screenshot 2025-05-26 025607](https://github.com/user-attachments/assets/03529a4c-a3bb-4552-8bb7-2cb06e102e9e)
+
+- Step 4: Additional Details
+![Screenshot 2025-05-26 025619](https://github.com/user-attachments/assets/d0c808df-ee75-4b8c-ac92-1b269146feab)
+
+### 📋 Your Plan
+![Screenshot 2025-05-26 025628](https://github.com/user-attachments/assets/f77f5f34-330c-45f7-93c6-24c5bae3fbd4)
+
+### 🕋 Umrah Guide
+![Screenshot 2025-05-26 025633](https://github.com/user-attachments/assets/f76d3ffe-f4a8-43da-bde1-3f9157569986)
+
+- Umrah Steps
+![Screenshot 2025-05-26 025640](https://github.com/user-attachments/assets/db8eb0e0-9854-4f2c-8831-c605330dd854)
+
 ---
 
 ## ⚙️ Tech Stack
