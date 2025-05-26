@@ -44,9 +44,13 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 UI Screenshots
 
-_Add your UI screenshots here_
+### 🔐 Authentication Page
+![Screenshot 2025-05-26 025501](https://github.com/user-attachments/assets/391b9dc4-a3d0-4412-a933-d0dc7fef9325)
+
+### 🏠 Home Page
+![Screenshot 2025-05-26 025517](https://github.com/user-attachments/assets/7a5b0c9e-eb21-47fb-8d90-2c37cc688a3c)
 
 ---
 
