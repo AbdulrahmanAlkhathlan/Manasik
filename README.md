@@ -23,7 +23,7 @@
 - [⚙️ Installation & Run](#️-installation--run)
 - [🔐 Environment Variables](#-environment-variables)
 - [🛣️ Roadmap](#️-roadmap)
-- [🤝 Contributing](#️-contributing)
+- [🤝 Contributing](#-contributing)
 - [🧾 License](#-license)
 
 ---
