@@ -10,6 +10,20 @@
 
 ---
 
+## 📚 Table of Contents
+- [📝 Description](#-description)
+- [✨ Features](#-features)
+- [📸 Screenshots](#-screenshots)
+- [⚙️ Tech Stack](#️-tech-stack)
+- [🧠 Backend & AI](#-backend--ai)
+- [🚀 Getting Started](#-getting-started)
+- [⚙️ Installation & Run](#️-installation--run)
+- [🔐 Environment Variables](#-environment-variables)
+- [🛣️ Roadmap](#️-roadmap)
+- [🧾 License](#-license)
+
+---
+
 ## 📝 Description
 
 **Manasik Planner** simplifies Umrah trip planning with a smart, AI-driven assistant. Whether you're traveling alone or with family, it builds a complete itinerary that includes spiritual rituals, hotel bookings, and more — all personalized to your needs.
@@ -39,7 +53,6 @@ _Add your UI screenshots here_
 - **React**
 - **React Router**
 - **Firebase Authentication**
-- **Tailwind CSS** *(optional)*
 - **React Icons**
 
 ### Backend
@@ -50,7 +63,7 @@ _Add your UI screenshots here_
 - **Cloud Firestore** (used to persist user-generated plans)
 
 ### APIs & AI
-- **OpenAI API** (for natural language itinerary generation)
+- **OpenAI API** (used for generating contextual day-by-day itineraries)
 - **Firebase API** (for auth and storage)
 
 ### Hosting & DevOps
@@ -122,7 +135,7 @@ Set up your Firebase credentials and configuration using the Firebase Console.
 
 ## 🛣️ Roadmap
 
-- 🌐 Add multilingual support
+- 🌐 Add multilingual (Arabic, English) support
 - 📱 PWA (Progressive Web App) support
 - 📍 Interactive map for Makkah
 - 📊 Expense estimator and tracker
