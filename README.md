@@ -99,7 +99,7 @@ git clone https://github.com/AbdulrahmanAlkhathlan/Manasik.git
 cd Manasik
 ```
 
-### ⚙️ Installation & Run
+## ⚙️ Installation & Run
 
 ### Frontend
 ```bash
