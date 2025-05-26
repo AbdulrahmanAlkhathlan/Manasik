@@ -2,7 +2,7 @@
 
 # Manasik
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/AbdulrahmanAlkhathlan/Manasik/LICENSE)
 [![Built with React](https://img.shields.io/badge/built%20with-React-blue)](https://reactjs.org/)
 [![OpenAI API](https://img.shields.io/badge/AI-OpenAI-green)](https://platform.openai.com/)
 
