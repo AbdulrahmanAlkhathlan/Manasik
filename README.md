@@ -37,7 +37,10 @@
 - ⏰ Activity time preferences (Morning, Afternoon, Evening, Night)  
 - 🔐 User Authentication (Firebase Auth)  
 - 📋 Step-by-step Umrah guide  
-- 📱 Fully responsive layout  
+- 📱 Fully responsive layout
+- 📖 View, navigate, and manage your day-by-day itinerary
+- 🔄 Editable plans with ability to re-generate or delete
+- 💾 Persistent plans saved in Firestore and localStorage
 
 ---
 
@@ -51,8 +54,9 @@ _Add your UI screenshots here_
 
 ### Frontend
 - **React** with **React Router**
-- **Firebase Authentication**
+- **React Markdown**
 - **React Icons**
+- **Firebase Authentication**
 - **Vite** (for fast bundling)
 
 ### Backend & AI
